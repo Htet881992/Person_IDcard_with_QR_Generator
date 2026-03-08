@@ -1,5 +1,6 @@
 streamlit
 python-docx
+openpyxl
 pandas
 numpy
 qrcode
