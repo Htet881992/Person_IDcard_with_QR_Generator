@@ -1,0 +1,6 @@
+streamlit
+python-docx
+pandas
+numpy
+qrcode
+pillow
