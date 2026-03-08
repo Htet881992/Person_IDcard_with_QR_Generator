@@ -9,3 +9,8 @@ sessions/
 .DS_Store
 .streamlit/
 .qrcode/
+
+*.log
+*.sqlite3
+.vscode/
+.idea/
