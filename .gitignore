@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+sessions/
+*.session
+*.session-journal
+.DS_Store
+.streamlit/
+.qrcode/
